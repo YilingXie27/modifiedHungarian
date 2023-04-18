@@ -1,4 +1,4 @@
-The code is attached to the paper ``Solving a Special Type of Optimal Transport Problem by a Modified Hungarian Algorithm'', Yiling Xie, Yiling Lou, Xiaoming Huo, Transactions on Machine Learning Research (TMLR).
+The code is attached to the paper ``Solving a Special Type of Optimal Transport Problem by a Modified Hungarian Algorithm'', Yiling Xie, Yiling Luo, Xiaoming Huo, Transactions on Machine Learning Research (TMLR).
 
 
 algo.py: includes the implementation of the modified Hungarian algorithm, the Hungarian algorithm, the Sinkhorn algorithm for comparison
